@@ -1,4 +1,4 @@
-package mainTeste;
+package testeClasses;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;

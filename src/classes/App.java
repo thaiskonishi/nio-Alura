@@ -1,4 +1,4 @@
-package teste;
+package classes;
 
 public class App {
 

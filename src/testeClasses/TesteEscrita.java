@@ -1,4 +1,4 @@
-package mainTeste;
+package testeClasses;
 
 import java.io.BufferedWriter;
 import java.io.FileOutputStream;
